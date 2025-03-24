@@ -38,8 +38,8 @@ Bowling,3.0009683638747107
 "Canoeing, rowing, moderate",7.0056515493822
 "Canoeing, rowing, vigorous",12.00962535303205
 "Carpentry, general",3.504510410897045
-"Carrying 16 to 24 lbs, upstairs",6.001936727749421
-"Carrying 25 to 49 lbs, upstairs",8.008498355291275
+"Carrying 7.3 to 10.9 kg, upstairs",6.001936727749421
+"Carrying 11.3 to 22.2 kg, upstairs",8.008498355291275
 Carrying heavy loads,8.008498355291275
 "Carrying infant, level ground",3.504510410897045
 "Carrying infant, upstairs",5.004841819373553
@@ -49,10 +49,10 @@ Carrying small children,3.0009683638747107
 "Circuit training, minimal rest",8.008498355291275
 Cleaning gutters,5.004841819373553
 "Cleaning, dusting",2.5043517770309807
-"Climbing hills, carrying 10 to 20 lb",7.509193596404534
-"Climbing hills, carrying 21 to 42 lb",8.008498355291275
-"Climbing hills, carrying over 42 lb",9.005593263667144
-"Climbing hills, carrying up to 9 lbs",7.0056515493822
+"Climbing hills, carrying 4.5 to 9.1 kg",7.509193596404534
+"Climbing hills, carrying 9.5 to 19.1 kg",8.008498355291275
+"Climbing hills, carrying over 19.1 kg",9.005593263667144
+"Climbing hills, carrying up to 4.1 kg",7.0056515493822
 "Coaching: football, basketball, soccer…",4.001126997740775
 "Crew, sculling, rowing, competition",12.00962535303205
 "Cricket (batting, bowling)",5.004841819373553
@@ -63,12 +63,12 @@ Croquet,2.5043517770309807
 "Cross country skiing, vigorous",9.005593263667144
 "Cross country snow skiing, slow",7.0056515493822
 Curling,4.001126997740775
-"Cycling, 10-11.9 mph, light",6.001936727749421
-"Cycling, 12-13.9 mph, moderate",8.008498355291275
-"Cycling, 14-15.9 mph, vigorous",10.00930808529992
-"Cycling, 16-19 mph, very fast, racing",12.00962535303205
-"Cycling, <10 mph, leisure bicycling",4.001126997740775
-"Cycling, >20 mph, racing",16.014308538539538
+"Cycling, 10-19.2 km/h, light",6.001936727749421
+"Cycling, 12-22.4 km/h, moderate",8.008498355291275
+"Cycling, 14-25.6 km/h, vigorous",10.00930808529992
+"Cycling, 16-30.6 km/h, very fast, racing",12.00962535303205
+"Cycling, <16.1 km/h, leisure bicycling",4.001126997740775
+"Cycling, >32.2 km/h, racing",16.014308538539538
 "Cycling, mountain bike, bmx",8.509352230270599
 Darts (wall or lawn),2.5043517770309807
 "Diving, springboard or platform",3.0009683638747107
@@ -104,7 +104,7 @@ Health club exercise,5.505320140905692
 "Horseback riding, trotting",6.505478774771756
 "Horseback riding, walking",2.5043517770309807
 Horseshoe pitching,3.0009683638747107
-"Ice skating, < 9 mph",5.505320140905692
+"Ice skating, < 14.5 km/h",5.505320140905692
 "Ice skating, average speed",7.0056515493822
 "Ice skating, rapidly",9.005593263667144
 Instructing aerobic class,6.001936727749421
@@ -154,17 +154,17 @@ Roller skating,7.0056515493822
 "Rowing machine, very vigorous",12.00962535303205
 "Rowing machine, vigorous",8.509352230270599
 Rugby,10.00930808529992
-"Running, 10 mph (6 min mile)",16.014308538539538
-"Running, 10.9 mph (5.5 min mile)",18.015118268548186
-"Running, 5 mph (12 minute mile)",8.008498355291275
-"Running, 5.2 mph (11.5 minute mile)",9.005593263667144
-"Running, 6 mph (10 min mile)",10.00930808529992
-"Running, 6.7 mph (9 min mile)",11.009466719165985
-"Running, 7 mph (8.5 min mile)",11.510320594145309
-"Running, 7.5mph (8 min mile)",12.514035415778087
-"Running, 8 mph (7.5 min mile)",13.511130324153955
-"Running, 8.6 mph (7 min mile)",14.010435083040697
-"Running, 9 mph (6.5 min mile)",15.014149904673474
+"Running, 16.1 km/h (6 min mile)",16.014308538539538
+"Running, 17.5 km/h (5.5 min mile)",18.015118268548186
+"Running, 8.0 km/h (12 minute mile)",8.008498355291275
+"Running, 8.4 km/h (11.5 minute mile)",9.005593263667144
+"Running, 9.7 km/h (10 min mile)",10.00930808529992
+"Running, 10.8 km/h (9 min mile)",11.009466719165985
+"Running, 11.3 km/h (8.5 min mile)",11.510320594145309
+"Running, 12.1 km/h (8 min mile)",12.514035415778087
+"Running, 12.9 km/h (7.5 min mile)",13.511130324153955
+"Running, 13.8 km/h (7 min mile)",14.010435083040697
+"Running, 14.5 km/h (6.5 min mile)",15.014149904673474
 "Running, cross country",9.005593263667144
 "Running, general",8.008498355291275
 "Running, on a track, team practice",10.00930808529992
@@ -229,20 +229,20 @@ Unicycling,5.004841819373553
 "Walk / run, playing with animals",4.001126997740775
 "Walk/run, playing with children, moderate",4.001126997740775
 "Walk/run, playing with children, vigorous",5.004841819373553
-"Walking 2.0 mph, slow",2.5043517770309807
-Walking 2.5 mph,3.0009683638747107
-"Walking 3.0 mph, moderate",3.303781447875587
-"Walking 3.5 mph, brisk pace",3.803086206762328
-"Walking 3.5 mph, uphill",6.001936727749421
-"Walking 4.0 mph, very brisk",5.004841819373553
-Walking 4.5 mph,6.304749811750298
-Walking 5.0 mph,8.008498355291275
+"Walking 3.2 km/h, slow",2.5043517770309807
+Walking 4.0 km/h,3.0009683638747107
+"Walking 4.8 km/h, moderate",3.303781447875587
+"Walking 5.6 km/h, brisk pace",3.803086206762328
+"Walking 5.6 km/h, uphill",6.001936727749421
+"Walking 6.4 km/h, very brisk",5.004841819373553
+Walking 7.2 km/h,6.304749811750298
+Walking 8.0 km/h,8.008498355291275
 Walking downstairs,3.0009683638747107
 Walking the dog,3.0009683638747107
 Walking using crutches,5.004841819373553
 "Walking, pushing a wheelchair",4.001126997740775
 "Walking, snow blower",3.504510410897045
-"Walking, under 2.0 mph, very slow",2.0008097300086467
+"Walking, under 3.2 km/h, very slow",2.0008097300086467
 Wallyball,7.0056515493822
 Water aerobics,4.001126997740775
 "Water aerobics, water calisthenics",4.001126997740775
